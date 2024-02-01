@@ -13,5 +13,6 @@ https://amberteng.github.io/home/
 - [ ] Add talks (videos and ppts)
 - [ ] Add podcast features 
 - [ ] Add Currently Building 2024
-- [ ] Change background image and then make it more opaque  
+- [x] Change background image and then make it more opaque 
+- [ ] Add featured AI projects 
   
