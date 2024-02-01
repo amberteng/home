@@ -645,6 +645,7 @@ p {
   position: relative;
   padding-bottom: 50px;
   overflow-y: scroll;
+  overflow-x: scroll;
   height: 100vh; /* or any other height you prefer */
 }
 
